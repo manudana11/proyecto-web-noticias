@@ -1,8 +1,8 @@
-## About This proyect!
+# About This proyect!
 
 In this Frontend project we will combine React + Sass, in addition to Javascript development.
 
-# Pre requirements
+## Pre requirements
 
 1 - In order to start the project first make a clone:
 
