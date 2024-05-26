@@ -1,7 +1,9 @@
 import React, { useEffect, useState } from 'react'
 import './FormNews.scss';
+import { useNavigate } from 'react-router-dom';
 
 const FormNews = () => {
+    const navigate = useNavigate();
     const initialValues = {
         title: '',
         author: '',
@@ -24,7 +26,8 @@ const FormNews = () => {
         let allNews = JSON.parse(localStorage.getItem('All News')) || [];
         allNews.push(data);
         localStorage.setItem('All News', JSON.stringify(allNews));
-        setData(initialValues)
+        setData(initialValues);
+        navigate('/')
     };
     const validationForm = () => {
         switch(true) {

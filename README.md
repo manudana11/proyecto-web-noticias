@@ -1,10 +1,6 @@
 ## About This proyect!
 
-##
-
-### About the project:
-
-In the Frontend project we will combine the React + Sass, in addition to Javascript development.
+In the Frontend project we will combine React + Sass, in addition to Javascript development.
 
 # 📋 Pre requirements
 
@@ -12,36 +8,27 @@ In the Frontend project we will combine the React + Sass, in addition to Javascr
 
 2 - Once the project is cloned, you must install the necessary modules with npm:
 
-> $npm install -y
+> npm i
 
-3 - Module Sass
+6 - Runs the app in the development mode.
 
-> $npm install Sass
-
-4 - module Axios
-
-> $npm install Axios
-
-5 - Module routerDON
-
-> $npm i router-dom
-
-6 - Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-> npm start
+< npm run dev
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Project requirements 👩‍🏫:
 
-Implementation of React Router in the page.
-Sections:
--Home
--List News
--Weather News
--Footer
+Implementa React Router en tu página
+
+/home. Home de la app
+
+/formNews. Formulario para crear noticia
+
+/listNews. Lista detallada de noticias 
+
+Componentes: Header, Home, Form (Formulario de alta de nueva noticia, guardar formulario en el local storage, tras dar de alta debes redirigir a ListNews), ListNews, Footer, context y SASS.
+
 
 ### Languages and Tools:
 
