@@ -8,9 +8,9 @@ In this Frontend project we will combine React + Sass, in addition to Javascript
 
 2 - Once the project is cloned, you must install the necessary modules with npm:
 
-> npm i
+> npm install
 
-6 - Runs the app in the development mode.
+3 - Runs the app in the development mode.
 
 < npm run dev
 
