@@ -1,0 +1,35 @@
+.header {
+    background-color: #007bff; 
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header-logo {
+    width: auto; 
+    height: 65px; 
+  }
+  
+  nav {
+    display: flex;
+  }
+  
+  nav span {
+    margin-right: 20px;
+  }
+  
+  nav span:last-child {
+    margin-right: 0;
+  }
+  
+  nav span a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  nav span a:hover {
+    text-decoration: underline;
+  }
+  
