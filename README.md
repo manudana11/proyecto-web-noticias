@@ -1,8 +1,6 @@
 ## About This proyect!
 
-### Hey 👋 Developer 👇
-
-[Matias Salvatore](https://github.com/msalvatore82) 🧑‍🦲
+##
 
 ### About the project:
 
@@ -11,8 +9,6 @@ In the Frontend project we will combine the React + Sass, in addition to Javascr
 # 📋 Pre requirements
 
 1 - In order to start the project first make a clone:
-
-> git clone: https://github.com/msalvatore82/React-ApiNew.git
 
 2 - Once the project is cloned, you must install the necessary modules with npm:
 
