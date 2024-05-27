@@ -1,5 +1,5 @@
 form {
-    background-color: #f8f9fa; /* Fondo claro para contraste */
+    background-color: #f8f9fa;
     padding: 20px;
     border-radius: 8px;
     max-width: 600px;
@@ -19,7 +19,7 @@ form {
   legend {
     font-size: 1.5em;
     margin-bottom: 10px;
-    color: #007bff; /* Azul consistente con el header y footer */
+    color: #007bff; 
   }
   
   label {
@@ -30,7 +30,7 @@ form {
   
   input[type="text"],
   textarea {
-    width: calc(100% - 20px); /* Asegura que el padding no cause overflow */
+    width: calc(100% - 20px);
     padding: 10px;
     margin-bottom: 10px;
     border: 1px solid #ced4da;
